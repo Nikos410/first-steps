@@ -1,0 +1,7 @@
+doc
+*.class
+*.ctxt
+Thumbs.db
+*.bluej
+bluej.pkg
+bluej.pkh
